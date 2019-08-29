@@ -1,0 +1,28 @@
+
+/* body{background: #eee;} */
+/* html{height: 100%;}
+body{height: 100%;}
+.Login{height: 100%;width: 100%;background: #eee;} */
+
+.goback{font: 1rem/2rem " ";margin-left:1rem;}
+
+header{text-align: center;padding-top: 3rem;}
+header img{display: block;margin: 0 auto;height: 3rem;width: 3rem;}
+header p{font: 1rem/1.5rem " ";color: #6b6b6b;letter-spacing: .3rem;}
+header p span{display: inline-block;color: #ff8b13;font: 1rem/1.5rem " ";}
+
+main{text-align: center;}
+main .txt{display: block; width:12rem;height: 2rem;background: #fff; 
+	border:0;margin: 0 auto;font: .44rem/1.17rem " ";color: #a0a0a0;padding-left: .34rem;
+	border-radius:.2rem .2rem 0 0; }
+main .psd{display: block; width:12rem;height: 2rem;background: #fff; 
+	border:0;margin: 0 auto;font: .44rem/1.5rem " ";color: #a0a0a0;padding-left: .34rem;
+	border-radius:0  0 .2rem .2rem  ;margin-top: .3rem;background:#fff url(../assets/img/eye.png) no-repeat 11rem;
+	background-size:.8rem 
+}
+main a.login{display: block;font:1rem/1.5rem " ";
+	color: #fffbe3;background: #32b4ff; width:12rem;margin: 0 auto;
+border-radius: .6rem;margin-top: 1.56rem;margin-bottom: 2.1rem; letter-spacing: .06rem;}
+main a.zhuce{display: inline-block;font: 1rem/1rem " ";color: #777777;}
+main span{display: inline-block;color: #e0e0e0;font: .4rem/.4rem "";margin: 0  .32rem;}
+main a.forget{display: inline-block;font: 1rem/1rem " ";color: #777777;}

@@ -1,0 +1,23 @@
+.footerbox{
+  width: 100%;
+  position:fixed;
+  bottom:0;
+  background: #fff;
+  display: flex;
+  text-align: center;
+  .footerli{
+    height: 50px;
+    flex:1;
+    .homeicon{
+      display: block;
+      margin: 0 auto;
+    }
+  }
+  .footeractive{
+    color: aqua;
+    .homeicon{
+      color: aqua
+    }
+  }
+}
+
